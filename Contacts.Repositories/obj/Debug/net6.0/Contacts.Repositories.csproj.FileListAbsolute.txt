@@ -1,0 +1,15 @@
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\bin\Debug\net6.0\Contacts.Repositories.deps.json
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\bin\Debug\net6.0\Contacts.Repositories.dll
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\bin\Debug\net6.0\Contacts.Repositories.pdb
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\bin\Debug\net6.0\Contacts.Model.dll
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\bin\Debug\net6.0\Contacts.Model.pdb
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\Contacts.Repositories.csproj.AssemblyReference.cache
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\Contacts.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\Contacts.Repositories.AssemblyInfoInputs.cache
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\Contacts.Repositories.AssemblyInfo.cs
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\Contacts.Repositories.csproj.CoreCompileInputs.cache
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\Contacts.Repositories.csproj.CopyComplete
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\Contacts.Repositories.dll
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\refint\Contacts.Repositories.dll
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\Contacts.Repositories.pdb
+Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Repositories\obj\Debug\net6.0\ref\Contacts.Repositories.dll

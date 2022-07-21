@@ -1,0 +1,60 @@
+﻿@page "/"
+@page "/contactList"
+
+@inject IContactService ContactService
+@inject NavigationManager NavigationManager
+
+<h3>Contacts</h3>
+
+@Message
+
+@if(contacts == null)
+{
+	<p>Loading...</p>
+}
+else
+{
+	<table class="table">
+	<thead>
+		<tr>
+			<th>Full Name</th>
+			<th>Phone</th>
+			<th>Adress</th>
+			<th></th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var contact in contacts)
+		{
+			<tr>
+				<td>@contact.FullName</td>
+				<td>@contact.Phone</td>
+				<td>@contact.Adress</td>
+				<td><a href="/contactDetails/@contact.Id">Edit</a></td>
+				<td></td>
+			</tr>
+		}
+	</tbody>
+</table>
+}
+
+
+
+
+@code {
+	IEnumerable<Contact> contacts;
+	public string Message { get; set; }
+
+	protected async override Task OnInitializedAsync()
+	{
+		try
+		{
+			contacts = await ContactService.GetAll();
+		}
+		catch (Exception ex)
+		{
+			Message = "Error... " + ex.Message;
+		}
+	}
+}

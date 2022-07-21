@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\ContactsServices\\ContactsServices.csproj": {}
+  },
+  "projects": {
+    "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\Contacts.Model\\Contacts.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\Contacts.Model\\Contacts.Model.csproj",
+        "projectName": "Contacts.Model",
+        "projectPath": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\Contacts.Model\\Contacts.Model.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\Contacts.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\ContactsServices\\ContactsServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\ContactsServices\\ContactsServices.csproj",
+        "projectName": "ContactsServices",
+        "projectPath": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\ContactsServices\\ContactsServices.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\ContactsServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\Contacts.Model\\Contacts.Model.csproj": {
+                "projectPath": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\Contacts.Model\\Contacts.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
