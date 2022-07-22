@@ -27,23 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\ContactsServices\\Contacts.Services.csproj",
+      "projectUniqueName": "D:\\Cursos\\Programacion\\Udemy\\Blazor Ultimate\\Contacts\\ContactsServices\\Contacts.Services.csproj",
       "projectName": "Contacts.Services",
-      "projectPath": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\ContactsServices\\Contacts.Services.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\ContactsServices\\obj\\",
+      "projectPath": "D:\\Cursos\\Programacion\\Udemy\\Blazor Ultimate\\Contacts\\ContactsServices\\Contacts.Services.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "D:\\Cursos\\Programacion\\Udemy\\Blazor Ultimate\\Contacts\\ContactsServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\Contacts.Model\\Contacts.Model.csproj": {
-              "projectPath": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\Contacts.Model\\Contacts.Model.csproj"
+            "D:\\Cursos\\Programacion\\Udemy\\Blazor Ultimate\\Contacts\\Contacts.Model\\Contacts.Model.csproj": {
+              "projectPath": "D:\\Cursos\\Programacion\\Udemy\\Blazor Ultimate\\Contacts\\Contacts.Model\\Contacts.Model.csproj"
             }
           }
         }

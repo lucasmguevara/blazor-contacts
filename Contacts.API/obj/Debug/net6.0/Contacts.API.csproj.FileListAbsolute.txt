@@ -36,3 +36,41 @@ Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.API\obj\Debug\net6.0\refin
 Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.pdb
 Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.genruntimeconfig.cache
 Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.API\obj\Debug\net6.0\ref\Contacts.API.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\appsettings.json
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Contacts.API.exe
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Contacts.API.deps.json
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Contacts.API.runtimeconfig.json
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Contacts.API.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Contacts.API.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Dapper.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Contacts.Model.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Contacts.Repositories.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Contacts.Repositories.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\bin\Debug\net6.0\Contacts.Model.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.csproj.AssemblyReference.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.AssemblyInfoInputs.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.AssemblyInfo.cs
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\scopedcss\bundle\Contacts.API.styles.css
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.csproj.CopyComplete
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\refint\Contacts.API.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\Contacts.API.genruntimeconfig.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.API\obj\Debug\net6.0\ref\Contacts.API.dll

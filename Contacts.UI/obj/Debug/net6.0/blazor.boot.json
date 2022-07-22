@@ -29,7 +29,9 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-jOmoWSfsdQexH\/6QCA56gR1RMEqeix2iDDUBWbpAOQI=",
       "Microsoft.JSInterop.dll": "sha256-UMN0MIhXy6iiBoCH7TVNO7airH6YRx+Dtq3QNJ0b0rM=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-TNVKFxQm+ZgKzHK5rCOcAC9sMNh87Kz6N3h5jS7B\/cg=",
+      "Radzen.Blazor.dll": "sha256-SNaFWCPw57lMrTJ9YciecaADhJBthY\/q4Nl7a5oXxCw=",
       "System.IO.Pipelines.dll": "sha256-6+E55JXedimdw1c1bDtVg4K7XuWjVWVTifH8QpfzXSY=",
+      "System.Linq.Dynamic.Core.dll": "sha256-+dlU8yi5zWnF9GeqOTl26t\/y5vllHc9O3mEwXdQjP7M=",
       "Microsoft.CSharp.dll": "sha256-DBX+tbEtSR3vzMA1qJk3ZDTX2ZBhOIWNVh1PtWMDIXw=",
       "Microsoft.VisualBasic.Core.dll": "sha256-6Yh0Z6NJFcqVLkbAVs2n6VSqdARNIVJludvYrOfV7Nc=",
       "Microsoft.VisualBasic.dll": "sha256-9kGD4dXyAeNYPFWXFzNODp\/8Tvbb7kIFZmTw5r05Bcs=",
@@ -196,20 +198,20 @@
       "mscorlib.dll": "sha256-wmk56X5dbt29rrFZKEFpOFjotkZA+JSxA4fqkgmBsOU=",
       "netstandard.dll": "sha256-CvlfDmNgFRYT7l\/xZKu91FlbTFyLG\/5cH7YX63k9ghE=",
       "System.Private.CoreLib.dll": "sha256-aF4imeOpA59D6F5qCLabzkeY7MvRZzNYzavhB\/bdxvM=",
-      "Contacts.Model.dll": "sha256-ZhEIjdZ5JRhGt\/BJFLvDH4EVfyz3SOWPOQtVmO\/1cUM=",
-      "Contacts.Services.dll": "sha256-gv5b84THyJ0a\/f6LRdtgXQZmYbBwZkpQzISoiBwcqaY=",
-      "Contacts.UI.dll": "sha256-wBNX8VgUuloA\/28MKTxTbGmTMXnBTwdm8zxk5cP9jSQ="
+      "Contacts.Model.dll": "sha256-mPTdwFaFC36tpld9pUhOigLxIXfXBpQq35JFBMmqTbk=",
+      "Contacts.Services.dll": "sha256-DR6XgqEUuX7rg9nVGVnnZwsJYT2e\/qRAHeX\/ui8Fv68=",
+      "Contacts.UI.dll": "sha256-ohsmAHOGA662MEPechamKEykNuJmpL\/A4keP55RgDnU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Contacts.Services.pdb": "sha256-wHuh3MO8ZZMa7PaqsWXZWBOhsX89KvWpRslLuACPB8A=",
-      "Contacts.Model.pdb": "sha256-QK3+A2iLUJnx\/bMOuP309KroaLlUUTE3H\/kDtHCyKQI=",
-      "Contacts.UI.pdb": "sha256-4O\/NzacHqupuov6ceacce+8H5hnD8vlXzpLGISLHlJE="
+      "Contacts.Services.pdb": "sha256-rLEJz+LMGQmRP26NA1ZSaptTuBVjvoLUmp0KQsSsOp8=",
+      "Contacts.Model.pdb": "sha256-7Nm14sBLooEs8BFvYtPO+LXfNYk1sPPsuK0K8dUDc8I=",
+      "Contacts.UI.pdb": "sha256-pSIBeJQG0N7RjDXzDZrJ7WFC6\/kUJmpdFaZsxqVtCfk="
     },
     "runtime": {
-      "dotnet.6.0.7.70hdupn24t.js": "sha256-pvJcJ6jtDSfxgXm03QYRTm4aAi9PSzMSJODReHtvASY=",
+      "dotnet.6.0.7.rys6jl4f53.js": "sha256-pvJcJ6jtDSfxgXm03QYRTm4aAi9PSzMSJODReHtvASY=",
       "dotnet.timezones.blat": "sha256-voSto+V7XFVWZeFKKyqXIz7TSPff+H8\/q3yNzTJaPg8=",
       "dotnet.wasm": "sha256-J2jDqzlphFQO2ZAdajpUa\/DxBhSK6uS1m6Cs0XdyePE=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",

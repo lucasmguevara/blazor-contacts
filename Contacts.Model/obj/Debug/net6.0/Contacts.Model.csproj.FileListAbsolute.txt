@@ -10,3 +10,15 @@ Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Model\obj\Debug\net6.0\Con
 Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Model\obj\Debug\net6.0\refint\Contacts.Model.dll
 Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Model\obj\Debug\net6.0\Contacts.Model.pdb
 Z:\biosoft_docs\Lucas\CURSOS\Blazor\Contacts\Contacts.Model\obj\Debug\net6.0\ref\Contacts.Model.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\bin\Debug\net6.0\Contacts.Model.deps.json
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\bin\Debug\net6.0\Contacts.Model.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\bin\Debug\net6.0\Contacts.Model.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\obj\Debug\net6.0\Contacts.Model.csproj.AssemblyReference.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\obj\Debug\net6.0\Contacts.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\obj\Debug\net6.0\Contacts.Model.AssemblyInfoInputs.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\obj\Debug\net6.0\Contacts.Model.AssemblyInfo.cs
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\obj\Debug\net6.0\Contacts.Model.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\obj\Debug\net6.0\Contacts.Model.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\obj\Debug\net6.0\refint\Contacts.Model.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\obj\Debug\net6.0\Contacts.Model.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Contacts\Contacts.Model\obj\Debug\net6.0\ref\Contacts.Model.dll

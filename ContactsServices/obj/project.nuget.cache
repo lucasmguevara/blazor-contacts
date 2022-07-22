@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXy9cIOXnpSek+ZDcZAjNmC3rjQZPn3fwhWStP+FrM4sjNEGEst7lXcj6DAyCsg9+0FDGB6JjtmuMu5obvHqJA==",
+  "dgSpecHash": "5LcDSU3sokuOcIAc41g7wSiShnamz9IPNSdF57WkYOLYebU+NFqhqzvFxmbfpd68bLYcwPb8eJfDfx9L5ln7iA==",
   "success": true,
-  "projectFilePath": "Z:\\biosoft_docs\\Lucas\\CURSOS\\Blazor\\Contacts\\ContactsServices\\Contacts.Services.csproj",
+  "projectFilePath": "D:\\Cursos\\Programacion\\Udemy\\Blazor Ultimate\\Contacts\\ContactsServices\\Contacts.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
